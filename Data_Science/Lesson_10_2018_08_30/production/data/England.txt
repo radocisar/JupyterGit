@@ -1,0 +1,109 @@
+https://www.dft.gov.uk/traffic-counts/
+
+Divide by regions (206):
+- East Midlands (9)
+- East of England (11)
+- London (33)
+- Merseyside (5)
+- North East (12)
+- North West (18)
+- Scotland (32)
+- South East (19)
+- South West (16)
+- Wales (22)
+- West Midlands (14)
+- Yorkshire and the Humber (15)
+
+Cities:
+- Aberdeen City
+- Aberdeenshire
+- Angus
+- Argyll and Bute
+- Barking and Dagenham
+- Barnet
+- Barnsley
+- Bath and North East Somerset
+- Bedford
+- Bexley
+- Birmingham
+- Blackburn with Darwen
+- Blaenau Gwent
+- Bolton
+- Bournemouth
+- Bracknell Forest
+- Bradford
+- Brent
+- Bridgend
+- Brighton and Hove
+- Bristol
+- Bromley
+- Buckinghamshire
+- Bury
+- Caerphilly
+- Calderdale
+- Cambridgeshire
+- Camden
+- Cardiff
+- Carmarthenshire
+- Central Bedfordshire
+- Ceredigion
+- City of Edinburgh
+- City of London
+- Clackmannanshire
+- Comhairle nan Eilean Siar
+- Conwy
+- Cornwall excluding Isles of Scilly
+- Coventry
+- Croydon
+- Cumbria
+- Darlington
+- Denbighshire
+- Derby
+- Derbyshire
+- Devon
+- Doncaster
+- Dorset
+- Dudley
+- Dumfries and Galloway
+- Dundee City
+- Durham
+- Ealing
+- East Ayrshire
+- East Cheshire
+- East Dunbartonshire
+- East Lothian
+- East Renfrewshire
+- East Riding of Yorkshire
+- East Sussex
+- Enfield
+- Essex
+- Falkirk
+- Fife
+- Flintshire
+- Gateshead
+- Glasgow City
+- Gloucestershire
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
