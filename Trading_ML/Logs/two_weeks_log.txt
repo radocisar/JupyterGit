@@ -1,0 +1,153 @@
+File | EURGBP_two_weeks_files_EURGBP_Bars_20180219_EURGBP_Bars_20180304
+Class_imbalance |  0    0.813150
+-1    0.096288
+ 1    0.090562
+Name: Price_change_12_per_forward, dtype: float64
+Weight of class 1 ought to be | 8.978922716627634
+Weight of class -1 ought to be | 8.444933920704846
+Lowest value in the entire df is | -100.0
+Max values across df are | Fast_Stoch_70_per_6_smoothing_32_per_ago_%    inf
+Fast_Stoch_42_per_3_smoothing_44_per_ago_%    inf
+Fast_Stoch_42_per_3_smoothing_35_per_ago_%    inf
+Slow_Stoch_42_per_3_smoothing_35_per_ago_%    inf
+Fast_Stoch_42_per_3_smoothing_36_per_ago_%    inf
+dtype: float64
+Max values have been chnaged to | EMA_200    0.878096
+EMA_150    0.878028
+EMA_100    0.877845
+EMA_50     0.877569
+EMA_40     0.877504
+dtype: float64
+X Holdout set | (5491, 12261)
+y Holdout set | (5491,)
+X Initialized data | (22799, 12261)
+y Initialized data | (22799,)
+CV Best MultiClass Score (on train set) | 1.0898332104954445
+CV Best MultiClass Score's iteration (on train set) | 0
+CV Best MultiClass Score (on test set) | 1.0894350245675553
+CV Best MultiClass Score's iteration (on test set) | 0
+CV Best AUC Score (on test set) | 0.49277358629942003
+CV Best AUC Score's iteration (on test set) | 175
+Best_Score (on full training set)| {'Recall:use_weights=false;class=2': 0.9401228249744115, 'Precision:use_weights=false;class=0': 0.5534783941158443, 'Recall:use_weights=true;class=2': 0.9401228249744115, 'Precision:use_weights=true;class=0': 0.9123634531815464, 'Precision:use_weights=true;class=1': 0.8747417969563995, 'Precision:use_weights=true;class=2': 0.9258790217036857, 'Recall:use_weights=true;class=0': 0.9228410832907511, 'Recall:use_weights=false;class=1': 0.8534519271495129, 'Recall:use_weights=true;class=1': 0.8534519271495129, 'Recall:use_weights=false;class=0': 0.9228410832907511, 'MultiClass': 0.4101209494638748, 'Precision:use_weights=false;class=2': 0.5831746031746031, 'Precision:use_weights=false;class=1': 0.9837666300500427}
+Best_Score (on Holdout set) | {'Recall:use_weights=false;class=2': 0.5180921052631579, 'Precision:use_weights=false;class=0': 0.28482328482328484, 'Recall:use_weights=true;class=2': 0.5180921052631579, 'Precision:use_weights=true;class=0': 0.5476702282527481, 'Precision:use_weights=true;class=1': 0.45918886207974174, 'Precision:use_weights=true;class=2': 0.4277245041011814, 'Recall:use_weights=true;class=0': 0.42633637548891784, 'Recall:use_weights=false;class=1': 0.7852283770651117, 'Recall:use_weights=true;class=1': 0.7852283770651117, 'AUC:type=Mu': 0.656979404711918, 'Recall:use_weights=false;class=0': 0.42633637548891784, 'Precision:use_weights=false;class=2': 0.17876754118364857, 'MultiClass': 1.0476015168939956, 'Precision:use_weights=false;class=1': 0.8809523809523809}
+Confusion matrix (on Holdout set) | [[ 207  254  306]
+ [ 501 2725  890]
+ [ 136  239  233]]
+TN (on Holdout set) | 207
+FN (on Holdout set) | 136
+FP (on Holdout set) | 306
+TP (on Holdout set) | 233
+Learning rate | 0.11494400352239609
+Best_Iteration | 39
+Count of important features (>0) | 307
+---------------------------------------
+File | EURGBP_two_weeks_files_EURGBP_Bars_20180304_EURGBP_Bars_20180318
+Class_imbalance |  0    0.825474
+ 1    0.094386
+-1    0.080140
+Name: Price_change_12_per_forward, dtype: float64
+Weight of class 1 ought to be | 8.745724907063197
+Weight of class -1 ought to be | 10.300350262697023
+Lowest value in the entire df is | -100.0
+Max values across df are | Fast_Stoch_42_per_12_smoothing_8_per_ago_%    inf
+Fast_Stoch_70_per_6_smoothing_20_per_ago_%    inf
+Fast_Stoch_70_per_6_smoothing_18_per_ago_%    inf
+Fast_Stoch_70_per_6_smoothing_17_per_ago_%    inf
+Fast_Stoch_70_per_6_smoothing_16_per_ago_%    inf
+dtype: float64
+Max values have been chnaged to | EMA_200    0.881424
+EMA_150    0.881348
+EMA_100    0.881266
+EMA_50     0.881170
+EMA_40     0.881150
+dtype: float64
+X Holdout set | (5371, 12261)
+y Holdout set | (5371,)
+X Initialized data | (23129, 12261)
+y Initialized data | (23129,)
+CV Best MultiClass Score (on train set) | 1.0901353994579726
+CV Best MultiClass Score's iteration (on train set) | 0
+CV Best MultiClass Score (on test set) | 1.0949574525848875
+CV Best MultiClass Score's iteration (on test set) | 0
+CV Best AUC Score (on test set) | 0.6961028258187212
+CV Best AUC Score's iteration (on test set) | 200
+Best_Score (on full training set)| {'Recall:use_weights=false;class=2': 0.9422548120989918, 'Precision:use_weights=false;class=0': 0.47921108742004265, 'Recall:use_weights=true;class=2': 0.9422548120989918, 'Precision:use_weights=true;class=0': 0.9014925516187833, 'Precision:use_weights=true;class=1': 0.8862374115438734, 'Precision:use_weights=true;class=2': 0.8968626435510209, 'Recall:use_weights=true;class=0': 0.9498151082937136, 'Recall:use_weights=false;class=1': 0.7926419649417445, 'Recall:use_weights=true;class=1': 0.7926419649417445, 'Recall:use_weights=false;class=0': 0.9498151082937136, 'MultiClass': 0.4333068391114699, 'Precision:use_weights=false;class=2': 0.5054080629301868, 'Precision:use_weights=false;class=1': 0.9865784994107634}
+Best_Score (on Holdout set) | {'Recall:use_weights=false;class=2': 0.41929133858267714, 'Precision:use_weights=false;class=0': 0.14299065420560747, 'Recall:use_weights=true;class=2': 0.41929133858267714, 'Precision:use_weights=true;class=0': 0.4326909106441682, 'Precision:use_weights=true;class=1': 0.5455067379257014, 'Precision:use_weights=true;class=2': 0.4620578419965906, 'Recall:use_weights=true;class=0': 0.5012787723785166, 'Recall:use_weights=false;class=1': 0.809257602862254, 'Recall:use_weights=true;class=1': 0.809257602862254, 'AUC:type=Mu': 0.6782787082474625, 'Recall:use_weights=false;class=0': 0.5012787723785166, 'Precision:use_weights=false;class=2': 0.1957040572792363, 'MultiClass': 1.026772658235948, 'Precision:use_weights=false;class=1': 0.9174670935610103}
+Confusion matrix (on Holdout set) | [[ 163  152   76]
+ [ 895 3115  462]
+ [ 172  220  116]]
+TN (on Holdout set) | 163
+FN (on Holdout set) | 172
+FP (on Holdout set) | 76
+TP (on Holdout set) | 116
+Learning rate | 0.11497700214385986
+Best_Iteration | 32
+Count of important features (>0) | 259
+---------------------------------------
+File | EURGBP_two_weeks_files_EURGBP_Bars_20180318_EURGBP_Bars_20180401
+Class_imbalance |  0    0.831614
+ 1    0.084596
+-1    0.083789
+Name: Price_change_12_per_forward, dtype: float64
+Weight of class 1 ought to be | 9.830360846121941
+Weight of class -1 ought to be | 9.925041876046901
+Lowest value in the entire df is | -100.0
+Max values across df are | Fast_Stoch_42_per_9_smoothing_39_per_ago_%    inf
+Fast_Stoch_42_per_6_smoothing_54_per_ago_%    inf
+Fast_Stoch_42_per_6_smoothing_52_per_ago_%    inf
+Fast_Stoch_42_per_6_smoothing_51_per_ago_%    inf
+Fast_Stoch_42_per_6_smoothing_50_per_ago_%    inf
+dtype: float64
+Max values have been chnaged to | EMA_200    0.870758
+EMA_150    0.870516
+EMA_100    0.870172
+EMA_50     0.869762
+EMA_40     0.869659
+dtype: float64
+X Holdout set | (5371, 12261)
+y Holdout set | (5371,)
+X Initialized data | (23129, 12261)
+y Initialized data | (23129,)
+CV Best MultiClass Score (on train set) | 1.0891474424966863
+CV Best MultiClass Score's iteration (on train set) | 0
+CV Best MultiClass Score (on test set) | 1.0963230482069637
+CV Best MultiClass Score's iteration (on test set) | 0
+CV Best AUC Score (on test set) | 0.655794095854687
+CV Best AUC Score's iteration (on test set) | 75
+Best_Score (on full training set)| {'Recall:use_weights=false;class=2': 0.9375614552605703, 'Precision:use_weights=false;class=0': 0.44015924359293357, 'Recall:use_weights=true;class=2': 0.9375614552605703, 'Precision:use_weights=true;class=0': 0.8812984827205225, 'Precision:use_weights=true;class=1': 0.8672291587468093, 'Precision:use_weights=true;class=2': 0.8716646184096678, 'Recall:use_weights=true;class=0': 0.9286089238845144, 'Recall:use_weights=false;class=1': 0.7530484627410109, 'Recall:use_weights=true;class=1': 0.7530484627410109, 'Recall:use_weights=false;class=0': 0.9286089238845144, 'MultiClass': 0.5157570050825653, 'Precision:use_weights=false;class=2': 0.42998872604284105, 'Precision:use_weights=false;class=1': 0.9847359454855196}
+Best_Score (on Holdout set) | {'Recall:use_weights=false;class=2': 0.4509283819628647, 'Precision:use_weights=false;class=0': 0.17478991596638654, 'Recall:use_weights=true;class=2': 0.4509283819628647, 'Precision:use_weights=true;class=0': 0.4947159370828091, 'Precision:use_weights=true;class=1': 0.4889562075857416, 'Precision:use_weights=true;class=2': 0.44654888782983865, 'Recall:use_weights=true;class=0': 0.3188405797101449, 'Recall:use_weights=false;class=1': 0.7506096209266238, 'Recall:use_weights=true;class=1': 0.7506096209266238, 'AUC:type=Mu': 0.6453973030455904, 'Recall:use_weights=false;class=0': 0.3188405797101449, 'Precision:use_weights=false;class=2': 0.16345062429057888, 'MultiClass': 1.057945619885326, 'Precision:use_weights=false;class=1': 0.9044349070100143}
+Confusion matrix (on Holdout set) | [[ 121  238  124]
+ [ 681 3190  640]
+ [  98  139  140]]
+TN (on Holdout set) | 121
+FN (on Holdout set) | 98
+FP (on Holdout set) | 124
+TP (on Holdout set) | 140
+Learning rate | 0.11497700214385986
+Best_Iteration | 6
+Count of important features (>0) | 55
+---------------------------------------
+File | EURGBP_two_weeks_files_EURGBP_Bars_20180401_EURGBP_Bars_20180415
+Class_imbalance |  0    0.881336
+ 1    0.063733
+-1    0.054931
+Name: Price_change_12_per_forward, dtype: float64
+Weight of class 1 ought to be | 13.828618968386024
+Weight of class -1 ought to be | 16.044401544401545
+Lowest value in the entire df is | -100.0
+Max values across df are | Slow_Stoch_28_per_12_smoothing_55_per_ago_%    inf
+Slow_Stoch_98_per_3_smoothing_13_per_ago_%     inf
+Fast_Stoch_56_per_3_smoothing_10_per_ago_%     inf
+Slow_Stoch_56_per_3_smoothing_10_per_ago_%     inf
+Fast_Stoch_56_per_3_smoothing_11_per_ago_%     inf
+dtype: float64
+Max values have been chnaged to | EMA_200    0.863665
+EMA_150    0.863499
+EMA_100    0.863341
+EMA_50     0.863198
+EMA_40     0.863166
+dtype: float64
+X Holdout set | (5371, 12261)
+y Holdout set | (5371,)
+X Initialized data | (22919, 12261)
+y Initialized data | (22919,)

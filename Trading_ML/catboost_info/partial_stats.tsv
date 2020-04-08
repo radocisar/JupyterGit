@@ -1,0 +1,3 @@
+iter	Accuracy_SumError	Accuracy_SumWeight	Precision:class=0_SumError	Precision:class=0_SumWeight	Precision:class=1_SumError	Precision:class=1_SumWeight	Precision:class=2_SumError	Precision:class=2_SumWeight	Recall:class=0_SumError	Recall:class=0_SumWeight	Recall:class=1_SumError	Recall:class=1_SumWeight	Recall:class=2_SumError	Recall:class=2_SumWeight
+0	5410.897326	12039.30931	1766.269941	4848.746731	2197	3777.296022	1447.627384	3413.266552	1766.269941	3435.878344	2197	4472	1447.627384	4131.430962
+1	5680.842995	12039.30931	1423.560848	3753.604303	2647	4836.42145	1610.282146	3449.283552	1423.560848	3435.878344	2647	4472	1610.282146	4131.430962
